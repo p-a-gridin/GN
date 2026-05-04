@@ -1,0 +1,1 @@
+cp -v ~/Luckfox_Lyra_SDK_250815/output/firmware/update.img  ~/thinclient_drives/R:   
