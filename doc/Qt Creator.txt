@@ -1,0 +1,2 @@
+GCC 12.4: /home/p/Luckfox_Lyra_SDK_250815/buildroot/output/rockchip_rk3506_luckfox/host/bin/arm-linux-gcc
+sysroot:  /home/p/Luckfox_Lyra_SDK_250815/buildroot/output/rockchip_rk3506_luckfox/host/arm-buildroot-linux-gnueabihf/sysroot
